@@ -1,3 +1,3 @@
 # hello-world
 First repository
-Canadian abstract painter based in London.
+Canadian abstract painter based in London that loves web development.
